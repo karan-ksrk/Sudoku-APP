@@ -1,5 +1,6 @@
 # sudoku
 
-<img align="right" width="200" height="400" src="App.gif">
-
+<p align="center">
+<img  width="500" src="App.gif">
+</p>
 <!--![app](App.gif)-->
